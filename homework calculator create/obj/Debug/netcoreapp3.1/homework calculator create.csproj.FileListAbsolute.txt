@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\bin\Debug\netcoreapp3.1\homework calculator create.exe
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\bin\Debug\netcoreapp3.1\homework calculator create.deps.json
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\bin\Debug\netcoreapp3.1\homework calculator create.runtimeconfig.json
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\bin\Debug\netcoreapp3.1\homework calculator create.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\bin\Debug\netcoreapp3.1\homework calculator create.dll
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\bin\Debug\netcoreapp3.1\homework calculator create.pdb
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\obj\Debug\netcoreapp3.1\homework calculator create.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\obj\Debug\netcoreapp3.1\homework calculator create.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\obj\Debug\netcoreapp3.1\homework calculator create.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\obj\Debug\netcoreapp3.1\homework calculator create.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\obj\Debug\netcoreapp3.1\homework calculator create.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\obj\Debug\netcoreapp3.1\homework calculator create.dll
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\obj\Debug\netcoreapp3.1\homework calculator create.pdb
+C:\Users\ASUS\source\repos\homework calculator create\homework calculator create\homework calculator create\homework calculator create\obj\Debug\netcoreapp3.1\homework calculator create.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "homework calculator create/1.0.0": {
+        "runtime": {
+          "homework calculator create.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homework calculator create/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
